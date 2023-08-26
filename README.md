@@ -20,4 +20,5 @@
       
   ## Links
 
-  Repo: https://github.com/Coridane/ecommerce
+  Repo: https://github.com/Coridane/techblog
+  Website: https://coridane.github.io/techblog/
