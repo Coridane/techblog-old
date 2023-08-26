@@ -2,13 +2,13 @@
 
   ## Description
 
-  This is a blogging website called Tech Talk. From here, you can create a post, view your posts from the Dashboard, or view all posts from the Homepage.
+  This is a blogging website called Tech Talk.
   
-  From the Dashboard, you may edit or delete your posts.
+  From here, you may create a post, view your posts from the dashboard, or view all posts from the homepage.
   
-  You may also leave a comment from the dashboard or homepage.
+  From the dashboard, you may edit or delete your posts. You may also leave a comment from the dashboard or homepage.
 
-  The technologies used include bcrypt, sequelize and its session store, dotenv, express, handlebars, and mysql2.
+  The technologies used includes bcrypt, sequelize and its session store, dotenv, express, handlebars, and mysql2.
   
   The challenge that I faced during this project involved several errors, but one was caused by casing: I originally had "class comment extends model," but it needed to be: "class Comment extends Model."
     
